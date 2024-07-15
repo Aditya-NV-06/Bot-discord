@@ -9,7 +9,7 @@ const WELCOME:&str="
   In this channel you can get all the 
   updates related to rust and computer science 
  
-  Post in the <#1231492123971551253> channel 
+  Post in the <channel no> channel 
 
   Have a nice a day
  ";
